@@ -70,9 +70,9 @@
 
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiranjit-behera" alt="chiranjit-behera" /></a> </p>
   
-  ![](https://github-readme-stats.vercel.app/api?username=chiranjit34&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chiranjit34&theme=radical&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit34&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=chiranjit-behera&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chiranjit-behera&theme=radical&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjit-behera&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
